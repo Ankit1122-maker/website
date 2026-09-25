@@ -1,0 +1,355 @@
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+
+    .header {
+        background-color: #2d2520;
+        color: white;
+        display: flex;
+        height: 12vh;
+        align-items: center;
+        justify-content: center;
+    }
+    .logo {
+        font-size: 1.5rem;
+        font-family: cursive;
+        font-weight: bold;
+        width: 15%;
+        /* margin-right: 100px;
+        margin-left: 10px; */
+    }
+    .acho{
+        width: 60%;
+        font-size: 1.2rem;
+    }
+    .icon{
+        color: white;
+        width: 15%;
+        display: flex;
+        justify-content: flex-end;
+        font-size: 1.5rem;
+
+    }
+    .nios {
+        display: inline;
+        margin-right: 1.5vw;
+        
+    }
+    .table{
+        border-right: #f3ecec;
+    }
+    .top-strip{
+        background-color: chocolate;
+        display: flex;
+    }
+    .lap{
+        margin-right: 45vw;
+        padding: 1vw;
+    }
+    .first{
+        font-size: 3.2vh;
+        color: #f3eded;
+    }
+    .second{
+        font-size: 2vh;
+        color: #f3efef;
+    }
+    .hat{
+        position: relative;
+        right: 18vw;
+    }
+    .border{
+        border-right: #f0ebeb dotted;
+        width: 7vw;
+        text-align: center;
+        margin: 0.4vw 0 0.4vw 0;
+        /* position: relative; */
+        /* left: 70px; */
+    }
+    .section{
+        display: flex;
+        background-color: blanchedalmond;
+        border-radius: 4%;
+        margin: 2vw 2vw 2vw 2vw;   
+        height: 90vh;   
+    }
+    
+    .left{
+        margin:3vw 0 0 2vw;
+        /* margin-left: 20px; */
+        width: 60%;
+    }
+    /* .para{
+        margin: 2vw 0 0 3vw;
+    } */
+    .para2{
+        margin-top: 2vw;
+        font-size: 16px;
+
+    }
+
+    .rohit{
+        position: relative;
+        top:2vw;
+        width:30%;
+       
+        
+    }
+    .rohit img{
+        width: 40vw;
+        margin-left: 6vw;
+    }
+    .content {
+        display: flex;
+        margin-top: 20px;
+    }
+    .feature1, .feature2 {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        margin-right: 40px;
+    }
+    .feature3 {
+        display: flex;
+        /* flex-direction: column; */
+        margin-top: 30px;
+        /* justify-content: center; */
+    }
+.button{
+    display: flex;
+}
+.mob {
+    /* display:inline-block ; */
+    position: relative;
+    top:500px;
+    right: 83vw;
+}
+.mob1 .mob2{
+    display: inline-block;
+}
+
+.mob2 img{
+    width: 80vw;
+}
+.section2{
+    display: flex;
+        background-color: blanchedalmond;
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 160vh; 
+}
+.pr img{
+    width: 800px;
+    margin-top: 30px;
+    margin-left: 39px;
+}
+.left2{
+    width: 66%;
+}
+.about{
+    margin: 30px 0 0 39px;
+} 
+.spacex{
+    margin-top: 30px;
+}
+.stylebox1 .stylebox2{
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.feature4{
+    margin: 30px 0 0 39px;
+    display: flex;
+    gap: 50px;
+}
+.feature5{
+    display: flex;
+}
+.feature6 img{
+    width: 80px;
+
+}
+.paragraph{
+    margin: 20px 0 0 20px;
+}
+.pr1{
+    margin: 30px;
+}
+.section3{
+    display: flex;
+        background-color: blanchedalmond;
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 142vh;
+}
+.section4{
+    display: flex;
+    flex-direction: column;
+        background-color: rgb(197, 237, 128);
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 80vh;
+}
+.section4 img{
+    width: 200px;
+    align-self: center;
+    margin: 20px;
+}
+.left3{
+    width: 30%;
+    margin: 30px 0 0 39px;
+    text-align: center;
+}
+.boxitem{
+    margin-top:30px ;
+    width: 320px;
+}
+.right3{
+    margin: 30px 0 0 39px;
+}
+.header1{
+    margin: 30px 0 0 20px;
+}
+.Alphabet{
+    display: flex;
+    
+}
+.Alpha{
+    margin: 20px;
+    border: 2px solid #c0bebe;
+    padding: 3px 3px 3px 3px;
+}
+.Alphabet3{
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Alphabet2{
+    display: flex;
+    
+}
+.alpha2{
+    margin: 35px 35px 3px 35px;
+}
+.alpha3{
+    margin: 0px 15px 15px 15px;
+}
+.alpha4{
+    margin-bottom: 180px;
+}
+.alpha4 img{
+    width: 230px;
+}
+.section5{
+    background-color: blanchedalmond;
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 90vh;
+}
+.boat2{
+    margin: 30px 0 0 39px;
+}
+.boat{
+    margin: 90px 20px 20px;
+}
+.boxx{
+    margin: 100px 15px 10px 0;
+
+}
+.section6{
+    background-color: blanchedalmond;
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 70vh;
+        
+}
+.beat{
+    display: flex;
+    justify-content: space-between;
+}
+.beatbox{
+    display: flex;
+    margin-top: 80px;
+    width: 70%;
+    
+}
+.beatbox img{
+    width: 150px;
+}
+.beatbox1{
+    margin-top: 76px;
+    
+}
+.beatbox2{
+    margin-top: 6px;
+    
+}
+.right4{
+    font-size: 25px;
+    width: 20%;
+    margin-top: 60px;
+    
+    
+}
+.right4 p{
+    width: 200px;
+    text-align: center;
+}
+.left4{
+    width: 60%;
+    margin-top: 100px;
+}
+.beatbox p{
+    width: 180px;
+    text-align: center;
+}
+.boat1 img{
+    width: 150px;
+    margin: 69px 0 0 39px;
+    border-radius: 6px;
+}
+.Alphabet1{
+    display: flex;
+    width: 400px;
+}
+.section7{
+    background-color: rgb(134, 229, 235);
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 60vh;
+        display: flex;
+}
+.adac img{
+    width: 200px;
+}
+.review{
+    display: flex;
+    margin: 100px;
+    /* border: 2px solid #c0bebe; */
+    justify-content: space-around;
+
+}
+.section8{
+    background-color: blanchedalmond;
+        border-radius: 4%;
+        margin: 20px 20px 20px 20px;   
+        height: 50vh;
+}
+.section8 img{
+    width: 100px;
+}
+.lastpara{
+    display: flex;
+    margin: 100px;
+    justify-content: space-around;
+}
+.lastpara p{
+    font-size: 25px;
+    box-align: center;
+}
